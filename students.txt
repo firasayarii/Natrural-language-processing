@@ -1,0 +1,13 @@
+
+'Dayton high school, 8th grade students information\,
+ '==================================================\n',
+ '\n',
+ 'Name\tbirth day   \temail\n',
+ '-----\t------------\t------\n',
+ 'Virat   5 June, 1882    virat@kohli.com\n',
+ 'Maria\t12 April, 2001  maria@sharapova.com\n',
+ 'Serena  24 June, 1998   serena@williams.com \n',
+ 'Joe      1 May, 1997    joe@root.com\n',
+ '\n',
+ '\n',
+ '\n']
